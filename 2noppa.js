@@ -270,6 +270,7 @@ function lopetaHeitto() {
     pisteet = 0;
     pisteet2= 0;
     pistelisays.textContent = 0;   
+    tuplamaara = 0;
 }
 
 function voitto(){
